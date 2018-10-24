@@ -1,2 +1,2 @@
-# Js-mousedrag-animation
-Javascript mousedrag animation with particles randomly dispersed.
+# Js-mousedrag-animation (p5.js)
+Javascript mousedrag animation with particles randomly dispersed. 
